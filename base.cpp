@@ -13,8 +13,10 @@ typedef long long ll;
 typedef pair<ll,ll> pll;
 
 #define MAXN 100005
-#define first f
-#define second s
+#define f first
+#define s second
+#define pb push_back
+#define mp make_pair
 #define fast ios::sync_with_stdio(NULL); cin.tie(0); cout.tie(0);
 #define clar(a) memset(a, 0, sizeof(a));
 #define usll unordered_set<ll>
