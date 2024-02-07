@@ -1,4 +1,5 @@
 # Competitive Programming Template
+![Codeforces Logo]([https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg](https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png))
 
 This repository provides a C++ template tailored for competitive programming. It includes essential macros and a basic structure to kickstart solving problems efficiently.
 
