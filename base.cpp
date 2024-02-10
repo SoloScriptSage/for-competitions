@@ -1,5 +1,5 @@
 // ┳┓┏┓┏┓┳┓  ┳┳┓┏┓┳┳┓┏┓  ┳┳┓┏┓┳┓┏┓
-// ┃┃┣ ┣┫┃┃  ┃┃┃┗┓┃┃┃┣   ┃┃┃┃┃┃┃┣ 
+// ┃┃┣ ┣┫┃┃  ┃┃┃┗┓┃┃┃┣   ┃┃┃┃┃┃┃┣
 // ┻┛┗┛┛┗┻┛  ┻┛┗┗┛┻┻┛┗┛  ┛ ┗┗┛┻┛┗┛
 
 #include <bits/stdc++.h>
@@ -15,14 +15,19 @@ typedef pair<ll, ll> pll;
 #define pb push_back
 #define fill(a,val) memset(a, val, sizeof(a));
 #define rep(i,n) for(int i=0;i<n;++i)
-#define for(i,a,b) for(int i = a; i < b; ++i)
+#define FOR(i,a,b) for(int i = a; i < b; ++i)
 #define sortv(v) sort(v.begin(), v.end())
 #define sortvr(v) sort(v.rbegin(), v.rend())
 #define MOD 1000000007
 #define ADD(a,b) ((a+b) % MOD)
 #define MUL(a,b) ((a*b) & MOD)
 
-void solve() {}
+void solve() {
+    ll n;
+    ll a[n];
+    ll b[n]
+    rep(i,n) cin >> a[n];
+}
 
 int main() {
     fast
